@@ -1,4 +1,5 @@
-# ML-DL-Compendium
+THIS IS A WORK IN PROGRESS, TYRING TO EXPORT GOOGLE DOCS DIRECTLY TO GIT. see medium article for the google doc.
+# ML-DL-Compendium 
 Machine &amp; Deep Learning Compendium
 <!-- Copy and paste the converted output. -->
 
